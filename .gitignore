@@ -1,0 +1,7 @@
+lua
+vendor
+redis.windows.conf
+dump.rdb
+
+data
+pkg
